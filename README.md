@@ -1,6 +1,8 @@
 # Tutorialspoint-pdf-downloader
 Download complete pdf's of Tutorial points tutorials.
 
+IMP: Branch 'python3' contains the code compatible with python3.
+
 ## Finding the tutorial name
 * Open https://www.tutorialspoint.com/index.htm
 * Scroll down to find your required tutorial library
